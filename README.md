@@ -1,7 +1,6 @@
 
 # 🔥 Optimasi Rute Pengiriman J&T di Surabaya dengan Metode Simulated Annealing
 
-```markdown
 Proyek ini bertujuan untuk mengoptimalkan rute pengiriman kurir J&T di wilayah Surabaya menggunakan algoritma *Simulated Annealing*. Dengan pendekatan ini, rute terbaik dapat ditemukan dengan mempertimbangkan kemungkinan solusi yang kurang optimal untuk keluar dari *local optimum*.
 
 ## 🗺️ Daftar Lokasi
@@ -50,13 +49,7 @@ Proyek ini bertujuan untuk mengoptimalkan rute pengiriman kurir J&T di wilayah S
 
 ## 🧠 Contoh Output
 
-```
+```plaintext
 Rute terbaik: A → B → C → F → E → D → A  
 Jarak total: 51 km
-```
-
-## 📄 Lisensi
-
-Proyek ini bersifat open-source dan dapat digunakan untuk keperluan akademik atau riset. Tidak untuk keperluan komersial tanpa izin.
-
 ```
